@@ -1,0 +1,229 @@
+<!doctype html>
+<html>
+<head>
+ <title>MINI PROJECT</title>
+ <link href="style.css" rel="stylesheet">
+</head>
+<body>
+<header>
+  <section class="f">
+   <div class="b"><img src="logo.png" class="c"></div>	 
+  </section>
+  <section class="a">
+  <div class="h">
+   <div><img src="telephone.png" class="te"><p class="ph">8883031938</p></div>
+   <div><img src="mail.png" class="te"><p class="ph">abdul1111@gmail.com</p></div>
+   <div><img src="location.png" class="te"><p class="ph">ANNA NAGAR ,  Chennai</p></div>
+  </div>
+ 
+   <div class="g">
+    <nav>
+     <ul class ="d">
+	 <li class="e"> <a href="index.html">HOME</a></li>
+	 <li  class="e"> <a href="about.html">ABOUT </a></li>
+	 <li class="e"> <a href="class.html">CLASSES </a></li>
+	 <li class="e"> <a href="blog.html">BLOG </a></li>
+	</ul>
+	</nav>
+   </div>
+  </section>
+</header>
+<main>
+ <section class="bg">
+ 
+
+  <section class="bc">
+   <h3 style="font-family:fantasy; letter-spacing:10px">BOXING</h3>
+   <h3 style="font-family:fantasy;letter-spacing:10px">CENTER</h3>
+  </section>
+  <div class="vl">
+  </div>
+  <div class="hoo">
+  <h3 class="contact">contact us</h3>
+ </div>
+ </section>
+</main>
+<main>
+ <section class="green">
+ <section class="key">
+  <div class="grey">
+   <div class="grey111111">
+   <div class="aboutcl">
+    <h6 class="T11">ABOUT  OUR  ACADEMY</h6>
+   </div>
+   <div class="para">
+    <p class="graph">Manoj Kumar Boxing Academy is India’s No.1 boxing academy, which came into existance in 2013 by keeping a dream to prepare maximum Olympians for India in coming years. In very short time of span academy shows its committment to produce finest boxers for the state/country. We dream to become number 1 and best boxing academy of India by providing world class training to the young boxers so that these young boxers can bring laurel for the country in future.</p>
+ <br>
+    <p class="graph">we at “Manoj Kumar Boxing Academy” are preparing good boxers, who are taking boxing at new heights. Some of our stars are 2-Times Olympian Manoj Kumar, who is most senior boxer in Indian boxing team right now. Mukesh Kumar is another International Boxer who is 16th time unbeaten state champion from Haryana in 56kg. Now Jitender (JK) is also emersing star boxer in 75kg, He is a national boxer. There are numbers of International, national and state boxers who trained by Manoj Kumar Boxing Academy.</p>
+  <br>
+  <h4 class="arrow">READ MORE ↴</h4>
+   </div>
+  </div>
+  <div class="client">
+    <div class="user"></div>
+  </div>
+  </div>
+ </section>
+</section>
+</main>
+<main>
+ <section class="vedio">
+  <div class="our"><h2>OUR CLASSES VEDIO</h2></div>
+  <div class="ppp"><h4>This is a global fitness franchise that offers gym and fitness facilities, <br>as well as MMA training, coaching, and classes. They have branches in<br> Delhi, Mumbai, Bangalore, Hyderabad, and Pune1........</h4> </div>
+ </section>
+</main>
+<main>
+<section class="new11">
+  <div class="new12">
+   <div class="new122">
+   </div>
+    </div>
+  <div class="new13">
+    <div class="new133"><h2 style=" padding-top:310px;color:white;padding-left:20px;font-size:40px;font-family:Aerial">BOXING</h2></div>
+  </div>
+  </div>
+  <div class="new14">
+   <div class="new144"></div>
+   </div>
+  <div class="new15">
+    <div class="new155"><h2 style=" padding-top:310px;color:white;padding-left:20px;font-size:40px;font-family:Aerial">BOXING</h2></div>
+  </div>
+  <div class="new16">
+    <div class="arrr"><img src="arrow.png" class="umar"></div>
+	<div class="arrr"><img src="next-grey.png"  class="abdul"></div>
+  </div>
+</section>
+</main>
+<main>
+ <section class="more">
+    <div class="more1"><h2 style="color:white;padding-left:45px;padding-top:5px;font-family:Sans Serif"> see more </h2> </div>
+	<div class="more2"><h2 style="color:white;padding-left:45px;padding-top:7px;font-family:Sans Serif">see more</h2></div>
+ </section>
+</main>
+<main>
+  <section class="blog">
+    <div class="latest"><h1 style="font-family : cursive;font-size:37px;">latest blog</h1></div>
+	<div class="zz"> <h3 style="padding-left:190px;color:white;font-family:cursive;;padding-top:10px;">The Future of Boxing: How Technology and Innovation are Changing the Sport</h3></div>
+ </section>
+</main>
+<main>
+<section class="aug">
+ <div class="augg">
+  <div class="hand">
+  </div>
+  <div class="aug111"><h3 style="color:black;padding-left:20px;padding-top:15px;">1<BR>AUG</h3></div>
+  <div class="bbbb">
+  <div class="song"><h1 style="color:white;word-spacing:5px;font-family:cursive;padding-left:20px;padding-top:20px;"> BOXER AMIR KHAN</h1></div>
+  <div class="songs"><p style="text-align:justify;color:white;font-family:cursive;line-height:23px;padding-top:14px;">American professional boxer and activist, who is widely regarded as one of the greatest heavyweight boxers of all time. He was known for his speed, agility, charisma, and outspokenness. He won the world heavyweight championship three times, and was involved in some of the most famous fights in boxing history, such as "The Rumble in the Jungle" and "The Thrilla in Manila". He also refused to be drafted into the Vietnam War, and became a symbol of the civil rights movement and the counterculture of the 1960s12</p></div>
+  <div class="touch"><h3 style="color:white;font-family:cursive;padding-left:28px;padding-top:5px">read more</h3> </div>
+  </div>
+ </div>
+ <div class="auggg">
+  <div class="hand1"> 
+  </div>
+  <div class="aug1111"><h3 style="color:black;padding-left:20px;padding-top:15px;">20<BR>JAN</h3></div>
+ <div class="bbbbb">
+  <div class="song1"><h1 style="color:white;word-spacing:5px;font-family:cursive;padding-left:20px;padding-top:20px;"> BOXER DAVID HAVIS</h1></div>
+  <div class="songs1"><p style="text-align:justify;color:white;font-family:cursive;line-height:23px;padding-top:14px;">American professional boxer and activist, who is widely regarded as one of the greatest heavyweight boxers of all time. He was known for his speed, agility, charisma, and outspokenness. He won the world heavyweight championship three times, and was involved in some of the most famous fights in boxing history, such as "The Rumble in the Jungle" and "The Thrilla in Manila". He also refused to be drafted into the Vietnam War, and became a symbol of the civil rights movement and the counterculture of the 1960s12</p></div>
+<div class="touch1"><h3 style="color:white;font-family:cursive;padding-left:28px;padding-top:5px">read more</h3> </div>
+ </div>
+ </div>
+</section>
+<main>
+ <section class="what">
+  <section class="whats"><h1 style="font-family:cursive;font-size:30px; word-spacing:5px;padding-left:380px;padding-top:40px;">WHAT SAYS OUR STUDENTS</h1></section>
+  <section class="whatss"><h2 style="font-family:cursive; color:white; padding-left:110px;padding-top:30px;"> Manoj Kumar Boxing Academy is one of the best boxing academies going around. </h2></section>
+ </section>
+</main>
+<main>
+<section class="client0000">
+<div class="abu">
+  <div class="client1">  </div>
+  <div class="client11">
+    <h1 style="color:white;font-family:cursive;padding-left:130px;padding-top:50px;">JOHN MOE</h1>
+     <h4 style="text-align:justify;font-family:cursive;color:white;padding-top:50px;line-height:30px;">At the time of the UFC's inception in 1993, mixed martial arts was not sanctioned in the United States, and did not include weight classes. Instead of the traditional championship model, the UFC held tournaments with the winner receiving a permanent appellation.[2] In response to criticism from Senator John McCain that saw the loss of its television deal and the banning of the sport in thirty-six states, the UFC increased its cooperation with state athletic commissions and introduced weight classes in 1997, </h4>
+    <img src="quote.png" style="padding-left:155px;padding-top:50px;">
+  </div>
+</div>
+<div class="laise">
+  <div class="client2"> </div>
+  <div class="client22"> 
+    <h1 style="color:white;font-family:cursive;padding-left:130px;padding-top:50px;">MIKE TYSON</h1>
+     <h4 style="text-align:justify;font-family:cursive;color:white;padding-top:50px;line-height:30px;">At the time of the UFC's inception in 1993, mixed martial arts was not sanctioned in the United States, and did not include weight classes. Instead of the traditional championship model, the UFC held tournaments with the winner receiving a permanent appellation.[2] In response to criticism from Senator John McCain that saw the loss of its television deal and the banning of the sport in thirty-six states, the UFC increased its cooperation with state athletic commissions and introduced weight classes in 1997, </h4>
+         <img src="quote.png" style="padding-left:155px;padding-top:50px;">
+  </div>
+  </div>
+ </section>
+</main>
+<main>
+<section class="qwe">
+  <div class="ewq"> <img src=" prev-arrow.png" style="padding-left:15px;padding-top:15px;"></div>
+  <div class="weq"> <img src=" next-arrow.png" style="padding-left:15px;padding-top:15px;"></div>
+</section>
+</main>
+<main>
+<section class="iop"><h1 style="font-family:arial; padding-left:150px; padding-top:120px;font-size:30px;word-spacing:5px;color:white;">REQUEST A CALL BACK</h1>
+</section>
+<section class="poi">
+   <div class="opi">
+   <div class="register">
+     <form class="kall">
+	 <div class="should">
+	  <label  class="textlable" for="name">NAME</label>
+	  <input type=text id="name" name="name">
+	  </div>
+	  <div class="should">
+	  <label  class="textlable" for="mobile">MOBILE</label>
+	  <input type=tel id="mobile" name="mobile">
+	  </div>
+	  <div class="should">
+	  <label class="textlable" for="mail">EMAIL</label>
+	  <input type=mail id="mail" name="mail">
+	  </div>
+	  <div class="radio">
+	   <input type="radio" name="gender" id="male" value="male">
+	   <label for="male">MALE</label>
+	   <input type="radio" name="gender" id="female" value="female">
+	   <label for="female">FEMALE</label>
+	  </div>
+	  <div class="btn">
+	  <button type="submit">SEND</button>
+	  </div>
+	 </form>
+	</div>
+   </div>
+   <div class="plm"><img src="footer-img.jpg" style="background-size:cover;background-repeat:no-repeat;width:100%;height:500px;"></div> 
+   </section>
+</main>
+<footer>
+ 
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-section about">
+          <h2>About Us</h2>
+          <p style="text-align:justify;">Welcome to our premier Boxing Academy, where passion meets precision, and warriors are forged in the crucible of discipline and skill. .</p>
+        </div>
+        <div class="footer-section contact">
+          <h2>Contact Us</h2>
+          <p>Email: abdul1111@gmail.com</p>
+          <p>Phone: (+91)8883031935</p>
+        </div>
+        <div class="footer-section links">
+          <h2>Quick Links</h2>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">about</a></li>
+            <li><a href="class.html">Classes</a></li>
+			<li><a href="blog.html">blog</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2024 Your Website. All rights reserved.</p>
+      </div>
+    </div>
+</footer>
+</main>
+</body>
+
+</html>
